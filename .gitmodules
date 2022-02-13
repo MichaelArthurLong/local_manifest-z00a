@@ -1,0 +1,4 @@
+[submodule ".local_manifests-all"]
+	path = .local_manifests-all
+	url = https://github.com/MichaelArthurLong/local_manifests
+	branch = hybris-12.1_testing
